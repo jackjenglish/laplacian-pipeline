@@ -1,0 +1,6 @@
+shortuuid
+blend_modes
+pymongo
+GPUtil
+pynvml
+aioboto3
